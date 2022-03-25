@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "picture": "https://en.wikipedia.org/wiki/St._Martin%27s_Island#/media/File:Sunset_at_Saint_Martin.jpg/32x32",
+    "budget": 8000,
+    "placeName": "St. Martin's Island"
+  },
+  {
+    "id": "2",
+    "picture": "https://en.wikipedia.org/wiki/Cox%27s_Bazar#/media/File:Cox's_Bazar_Sunset.JPG/32x32",
+    "budget": 4000,
+    "placeName": "Cox's Bazar"
+  },
+  {
+    "id": "3",
+    "picture": "https://en.wikipedia.org/wiki/Sajek_Valley#/media/File:Sajek_valley_(2).jpg/32x32",
+    "budget": 5000,
+    "placeName": "Sajek Tripuri Valley"
+  },
+  {
+    "id": "4",
+    "picture": "https://en.wikipedia.org/wiki/Rangamati#/media/File:Rangamati1.jpg/32x32",
+    "budget": 5000,
+    "placeName": "Rangamati"
+  },
+  {
+    "id": "5",
+    "picture": "https://en.wikipedia.org/wiki/Bandarban_District#/media/File:Boga_lake_01.jpg/32x32",
+    "budget": 5500,
+    "placeName": "Bandarban"
+  },
+  {
+    "id": "6",
+    "picture": "https://en.wikipedia.org/wiki/Khagrachhari_District#/media/File:Midway_to_Konglak_Hill,_Khagrachari,_Bangladesh.jpg/32x32",
+    "budget": 5286,
+    "placeName": "Khagrachari"
+  },
+  {
+    "id": "7",
+    "picture": "https://en.wikipedia.org/wiki/Kuakata#/media/File:Kuakata_beach.jpg/32x32",
+    "budget": 7000,
+    "placeName": "Kuakata"
+  },
+  {
+    "id": "8",
+    "picture": "https://en.wikipedia.org/wiki/Nijhum_Dwip#/media/File:Nijhum_Dwip.jpg/32x32",
+    "budget": 6500,
+    "placeName": "Nijhum Dwip "
+  },
+  {
+    "id": "9",
+    "picture": "https://en.wikipedia.org/wiki/Sylhet#/media/File:05122009_Hazrat_Shahjalal_Majar_Exit_Sylhet_photo1_Ranadipam_Basu.jpg/32x32",
+    "budget": 7000,
+    "placeName": "Sylhet "
+  }
+]
