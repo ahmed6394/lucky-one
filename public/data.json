@@ -3,54 +3,54 @@
     "id": "1",
     "img": "images/Saint-martin.jpg",
     "budget": 8000,
-    "placeName": "St. Martin's Island"
+    "name": "St. Martin's Island"
   },
   {
     "id": "2",
     "img": "images/cox's-Bazar.jpg",
     "budget": 4000,
-    "placeName": "Cox's Bazar"
+    "name": "Cox's Bazar"
   },
   {
     "id": "3",
     "img": "images/sajek.jpg",
     "budget": 5000,
-    "placeName": "Sajek Tripuri Valley"
+    "name": "Sajek Tripuri Valley"
   },
   {
     "id": "4",
     "img": "images/rangamat.jpg",
     "budget": 5000,
-    "placeName": "Rangamati"
+    "name": "Rangamati"
   },
   {
     "id": "5",
     "img": "images/bandarban.jpg",
     "budget": 5500,
-    "placeName": "Bandarban"
+    "name": "Bandarban"
   },
   {
     "id": "6",
     "img": "images/khagrachari.jpg",
     "budget": 5286,
-    "placeName": "Khagrachari"
+    "name": "Khagrachari"
   },
   {
     "id": "7",
     "img": "images/kuakata.jpg",
     "budget": 7000,
-    "placeName": "Kuakata"
+    "name": "Kuakata"
   },
   {
     "id": "8",
     "img": "images/nijhum-dwip.jpg",
     "budget": 6500,
-    "placeName": "Nijhum Dwip "
+    "name": "Nijhum Dwip "
   },
   {
     "id": "9",
     "img": "images/sylhet.jpg",
     "budget": 7000,
-    "placeName": "Sylhet "
+    "name": "Sylhet "
   }
 ]

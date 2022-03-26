@@ -17,7 +17,7 @@ const Body = () => {
   const handleBtn = (place) => {
     const newSelection = [...selectionBox, place];
     setSelectionBox(newSelection);
-    console.log(newSelection);
+    // console.log(selectionBox.id);
   };
 
   return (
@@ -29,7 +29,7 @@ const Body = () => {
       </div>
 
       <div className="sidebar-container">
-        <SideBar places={selectionBox}></SideBar>
+        <SideBar selectionBox={selectionBox} key={selectionBox.id}></SideBar>
       </div>
     </div>
   );

@@ -1,4 +1,15 @@
 .selection-box {
   position: sticky;
   top: 0;
+  margin: 30px;
+}
+.random-btn {
+  width: 250px;
+  height: 50px;
+  background-color: rgb(148, 195, 214);
+  border: none;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
