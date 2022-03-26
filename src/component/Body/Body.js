@@ -13,7 +13,7 @@ const Body = () => {
       .then((res) => res.json())
       .then((data) => setPlaces(data));
   }, []);
-
+  useEffect(() => {}, []);
   const handleBtn = (place) => {
     const newSelection = [...selectionBox, place];
     setSelectionBox(newSelection);
