@@ -13,6 +13,7 @@ const Body = () => {
       .then((res) => res.json())
       .then((data) => setPlaces(data));
   }, []);
+
   const handleBtn = (place) => {
     const newSelection = [...selectionBox, place];
     setSelectionBox(newSelection);
@@ -28,7 +29,7 @@ const Body = () => {
       </div>
 
       <div className="sidebar-container">
-        {<p>places: {selectionBox.length}</p>}
+        <SideBar places={selectionBox}></SideBar>
       </div>
     </div>
   );
